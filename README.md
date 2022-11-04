@@ -6,7 +6,7 @@ I'm Nousheen
 - Electronics and Telecommunications Engineer
 - Aspiring Data Scientist
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Nousheen%20Ali/Software%20Engineer/Student@42Abudhabi/B-Tech%20Electronics%20and%20Telecommunications%20Engineering/light/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FD4D03AQHOFoSJl4IZ6A%2Fprofile-displayphoto-shrink_800_800%2F0%2F1665683253639%3Fe%3D1672876800%26v%3Dbeta%26t%3DETJ-s3J9VradUaAVKC89zGlKlNklCL9Fa44p7Tz6h1s)](https://www.linkedin.com/in/nousheenali/)
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Nousheen%20Ali/Software%20Engineer/Student@42Abudhabi/Electronics%20and%20Telecommunications%20Engineer/light/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FD4D03AQHOFoSJl4IZ6A%2Fprofile-displayphoto-shrink_800_800%2F0%2F1665683253639%3Fe%3D1672876800%26v%3Dbeta%26t%3DETJ-s3J9VradUaAVKC89zGlKlNklCL9Fa44p7Tz6h1s)](https://www.linkedin.com/in/nousheenali/)
 
 <!--
 **nousheenali/nousheenali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
