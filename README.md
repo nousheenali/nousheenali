@@ -2,7 +2,10 @@ Hi there 👋
 
 I'm Nousheen, an Electronics Engineer by eductaion and ERP adminstrator by profession. Currently upskilling @[42Abudhabi](https://42abudhabi.ae) learning software development. Aspiring a career in data analytics and working towards that goal.
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Nousheen%20Ali/Software%20Engineer/Student@42Abudhabi/Electronics%20and%20Telecommunications%20Engineer/light/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FD4D03AQHOFoSJl4IZ6A%2Fprofile-displayphoto-shrink_800_800%2F0%2F1665683253639%3Fe%3D1672876800%26v%3Dbeta%26t%3DETJ-s3J9VradUaAVKC89zGlKlNklCL9Fa44p7Tz6h1s)](https://www.linkedin.com/in/nousheenali/)
+<p align="left">
+   <a href="https://www.linkedin.com/in/nousheenali/"><img alt="LinkedIn" src="https://img.shields.io/badge/-nousheenali-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nousheenali/"></a> 
+   <a href="mailto:nshn.ali@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nshn.ali@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nshn.ali@gmail.com"></a>
+  </p>
 
 ### Languages and Tools
 <div >
@@ -22,3 +25,4 @@ I'm Nousheen, an Electronics Engineer by eductaion and ERP adminstrator by profe
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 </div>
+
